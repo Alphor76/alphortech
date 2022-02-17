@@ -1,0 +1,2 @@
+# alphortech
+all about tech
